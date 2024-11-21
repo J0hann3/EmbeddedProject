@@ -1,5 +1,8 @@
 .vscode/*
 */.vscode/*
 !*/.vscode/c_cpp_properties.json
+objs
+*.hex
+*.bin
 French
 English
