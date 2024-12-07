@@ -77,7 +77,8 @@ A servo motor is a device that converts a control signal into a mechanical motio
 ## Demo
 ### Final Result
 - Watch the Dino game being played autonomously:
-![Dino Game](/Mechanical_Player_Dino_Game/img/demo_dino.mp4)
+
+![Dino Game](/Mechanical_Player_Dino_Game/img/demo_dino.gif)
 
 ### Construction and components
 - **Photoresistor**: Placed on the screen to detect obstacles.
