@@ -1,6 +1,6 @@
 <h1 align=center>💻 Mechanical Player Dino Game</h1>
 <p align="center">
-  <img src="img/Dino_game.png" alt="Dino Game"/>
+  <img src="img/Dino_game.gif" alt="Dino Game"/>
 </p>
 
 ## About
