@@ -4,6 +4,8 @@
 
 1. [Mechanical Player Dino Game](Mechanical_Player_Dino_Game/README.md)
 
+     ![Dino Game](Mechanical_Player_Dino_Game/img/Dino_game.gif)
+
 ## References and Resources
 <ins>ELEGOO Kit</ins> : [The most complete starter kit](https://eu.elegoo.com/fr/products/elegoo-mega-2560-the-most-complete-starter-kit?utm_source=officialhome&utm_medium=referral&utm_id=eustorefr)
 
