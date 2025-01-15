@@ -1,0 +1,17 @@
+{
+	"configurations": [
+	  {
+		"name": "linux-gcc-x64",
+		"defines": [
+		  "__AVR_ATmega328__"
+		 ],
+		"includePath": [
+		  "${workspaceFolder}/Source/include",
+		  "${workspaceFolder}/Source/portable/GCC/ATMega328",
+		  "${workspaceFolder}",
+		  "/usr/lib/avr/include/"
+		]
+	  }
+	],
+	"version": 4
+  }
